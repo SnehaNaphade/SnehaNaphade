@@ -1,5 +1,4 @@
-
-![](https://user-images.githubusercontent.com/89774976/181320779-a11d90b8-22f6-4075-9173-a7f23f81f501.png)
+![image](https://user-images.githubusercontent.com/89774976/181343109-032a5fac-478b-41e1-9070-508fe923ec8b.png)
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sneha Naphade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehanaphade&label=Profile%20views&color=0e75b6&style=flat" alt="snehanaphade" /> </p>
