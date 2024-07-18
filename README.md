@@ -3,9 +3,9 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sneha Naphade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehanaphade&label=Profile%20views&color=0e75b6&style=flat" alt="snehanaphade" /> </p>
 
-- 🔭 I’m an **IT Student**
+- 🔭 I’m an **IT Graduate**
 
-- 🏫 I'm currently studying at **Don Bosco Institute of technology,Mumbai in SE-IT**
+- 🏫 Studied at **Don Bosco Institute of technology,Mumbai in SE-IT**
 
 <br>
 <p align="center">
